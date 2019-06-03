@@ -59,7 +59,7 @@ https://samantha37.github.io/presentation/sh-logof.png
     flex-flow: row nowrap;
     font-size: 28px;
     color: white;
-    font-family:'caviar_dreamsregular';}
+    font-family:'arial';}
 
 #menu ul {
     display: flex;
@@ -89,7 +89,7 @@ background-image:url(banner.jpg.jpg);
 
 
 #menu li a {
- font-family:'caviar_dreamsregular';
+ font-family:'arial';
  width:100px;
  color:white;
  text-decoration:none;
@@ -106,7 +106,7 @@ padding: 10px;
 
 .bloc
 {color:#008ab4;
-    font-family: 'caviar_dreamsregular';
+    font-family: 'arial';
 display: flex;
      flex-flow: column wrap;
     align-items: center;}
